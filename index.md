@@ -5,6 +5,8 @@ title: Home
 
 # IN310 – Mathématiques pour l'Informatique
 
+Ceci est une ancienne version du cours [IN310](http://defeo.lu/in310).
+
 ## Info pratiques
 
 Cours les mercredis de 8h00 à 9h30, amphi G.
